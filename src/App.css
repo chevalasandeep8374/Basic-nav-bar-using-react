@@ -1,0 +1,43 @@
+
+body{
+  padding: 10px;
+ justify-content: center;
+ text-align: center;
+}
+h1{
+  text-align: center;
+}
+nav{
+  margin-top: 10px;
+  font-size: large;
+  text-align: center;  margin-bottom: 250px;
+  
+
+ }
+ .link{
+  margin-right: 30px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+ }
+ .link:hover{
+  color: red;
+ }
+ p{
+  color: black;
+ }
+ footer{
+  margin-top: 300px;
+  text-align: center;
+ }
+ footer a {
+  text-decoration: none;
+  margin-right: 20px;
+
+ }
+ .foot{
+  padding: 13px;
+ }
+ .foot2 a{
+  margin-right: 30px;
+ }
