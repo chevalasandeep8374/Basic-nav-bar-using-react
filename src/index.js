@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Counter from './component/counter';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+root.(
   <React.StrictMode>
     <App/>
   </React.StrictMode>
