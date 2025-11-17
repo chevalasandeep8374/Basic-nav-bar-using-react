@@ -53,7 +53,7 @@ const NavBar =()=>(
 
 
 const Footer = () => (
-  <footer >
+ 
     <div className="foot">
       <a href="/privacy-policy" >
         Privacy Policy
